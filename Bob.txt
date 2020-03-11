@@ -1,3 +1,4 @@
 Hey! I'm Bob.txt and Guy added me there.
 
 11/03/2020 - 11:41 CET - Guy is adding this
+Hey Bob, how it looks like, from master?
