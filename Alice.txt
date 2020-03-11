@@ -1,4 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Hi! It's the new line added Alice, isn't it awesome?
 Still there, let's try something more complex (drum roll)
+<<<<<<< HEAD
 Guy, from master is adding a 4th line, there
+=======
+Mmmm, not that complex!
+>>>>>>> add_patrick
